@@ -1,4 +1,4 @@
-# YGO-CM-HelperPrivate
+# YGO-CM-Helper
 
 A browser extension designed to streamline the process of buying Yu-Gi-Oh! cards from CardMarket by providing helpful utilities for deck management and card purchasing.
 
