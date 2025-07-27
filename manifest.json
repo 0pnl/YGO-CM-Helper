@@ -1,0 +1,12 @@
+{
+    "name": "YGO CM Helper",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "js": ["scripts/yugiohmeta/deck.js"],
+            "matches": ["https://www.yugiohmeta.com/top-decks/*"]
+        }
+    ]
+}
